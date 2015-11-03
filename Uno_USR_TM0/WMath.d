@@ -1,0 +1,1 @@
+WMath.d: ../WMath.cpp

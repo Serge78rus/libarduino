@@ -1,0 +1,1 @@
+abi.d: ../abi.cpp
